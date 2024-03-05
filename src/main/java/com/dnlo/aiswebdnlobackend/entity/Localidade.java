@@ -17,5 +17,8 @@ public class Localidade implements Serializable {
 
     @Field
     String icao;
+
+    @Field
+    String cabeceira;
 }
 
